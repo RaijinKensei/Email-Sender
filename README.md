@@ -2,7 +2,8 @@
 
 This program allows you to send emails from the command prompt. 
 
-Since Google has forbidden the use of third party apps to access, you can use Outlook, instead.
+Since Google has forbidden the use of third party apps to access,
+you have to use Outlook to login but you can send email to anyone, anyway.
 
 TUTORIAL:
 
